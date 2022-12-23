@@ -76,6 +76,10 @@ sudo npm install -g @appthreat/cdxgen
 sudo npm install -g @ngcloudsec/cdxgen-plugins-bin
 ```
 
+
+
+
+
 ## Getting Help
 
 ```bash
