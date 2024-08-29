@@ -8,4 +8,4 @@ jobs:
     steps:
       - run: echo "$EVENT"
         env:
-          EVENT: "modification"
+          EVENT: "modification1"
