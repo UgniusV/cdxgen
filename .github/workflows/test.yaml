@@ -13,6 +13,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
 
       - run: |
+          ls -lah
           echo "$EVENT"
           cat .npmignore
         env:
