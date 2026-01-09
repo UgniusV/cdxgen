@@ -16,4 +16,4 @@ jobs:
           echo "$EVENT"
           cat .npmignore
         env:
-          EVENT: ${{toJSON(github)}}
+          EVENT: "modification"
